@@ -1,0 +1,82 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    background-color: #4d5f7e7e;
+}
+#search-but{
+    width: 130px;
+}
+#search-in{
+    width: 300px;
+}
+.container-fluid #sasi-title{
+    font-size: 35px;
+    color: rgb(250, 94, 38);
+    padding-bottom: 14px;
+    font-weight: bolder;
+}
+.carousel-inner #nav-img{
+    height: 550px;
+    background-size: cover;
+    background: rgba(4, 15, 40, .7);
+    
+}
+.container{
+    line-height: 25px;
+}
+.container h1{
+    color: black;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.container p{
+    font-size: 16px;
+}
+span{
+    color: coral;
+}
+.container ul li{
+    list-style: none;
+}
+#tick-mark{
+    color: coral;
+    font-size: 19px;
+    margin-right: 10px;
+}
+#img-2{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.card{
+    margin: auto;
+    
+    margin-top: 20px;
+    width: 500px;
+}
+.flex-contain{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#img-3{
+    width: 290px;
+    height: 190px;
+    margin: auto;
+    margin-top: 10px;
+}
+.card-body{
+    text-align: center;
+}
+.card-body a{
+    color: coral;
+    text-decoration: none;
+}
+footer h1{
+    margin-left: 10px;
+}
+#form{
+    margin-left: 10px;
+}
